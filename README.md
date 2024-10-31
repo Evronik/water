@@ -1,4 +1,4 @@
-# HTML лендинг «Клык волка»
+# HTML лендинг «ЭКОНОМИТЕЛЬ ВОДЫ»
 ## _Скоптирован мной из интернета и переделан под запрос заказчика_  
 
 [![N|Solid](https://evronik.github.io/water/water.jpg)](https://evronik.github.io/water/)
